@@ -22,7 +22,7 @@ https://github.com/forFudan/ChinaAdministrativeAreas
 
 ## 个人链接
 个人主页  
-https://www.zhihu.com/people/zhuyuhao
+https://zhuyuhao.com/
 
 领英  
 https://www.linkedin.com/in/zhuyuhao1991/
