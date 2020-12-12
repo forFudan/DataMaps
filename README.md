@@ -20,5 +20,15 @@ pip install descartes
 ### 2019年行政区划调整的数据更新与分享
 https://github.com/forFudan/ChinaAdministrativeAreas
 
+## 个人链接
+个人主页  
+https://www.zhihu.com/people/zhuyuhao
+
+领英  
+https://www.linkedin.com/in/zhuyuhao1991/
+
+知乎  
+https://www.zhihu.com/people/zhuyuhao
+
 ## 微信公众号
 ![wechat](./resources/SR_code_mengzexiaozhu.JPG)
